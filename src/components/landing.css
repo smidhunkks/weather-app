@@ -14,7 +14,7 @@
   background-image: url('../assets/bg.png');
   background-size: cover;
   background-position: center;
-
+background-attachment: scroll;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
